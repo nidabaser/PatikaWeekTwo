@@ -13,6 +13,7 @@ hireYear : İşe başlangıç yılı
 Sınıfın Metotları
 
 Employee(name,salary,workHours,hireYear)        : Kurucu metot olup 4 parametre alacaktır.
+
 tax()                                           : Maaşa uygulanan vergiyi hesaplayacaktır. 
 Çalışanın maaşı 1000 TL'den az ise vergi uygulanmayacaktır.
 Çalışanın maaşı 1000 TL'den fazla ise maaşının %3'ü kadar vergi uygulanacaktır.
